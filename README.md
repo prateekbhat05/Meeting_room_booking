@@ -14,9 +14,11 @@ Just edit file config.php to add rooms features (room ID and maximum capability)
 
 ## SCREENSHOTS:
 
-<img src=screenshots/01.png width=350>
+![01](https://github.com/prateekbhat05/Meeting_room_booking_system/assets/116095534/4a2eec9a-0d64-482d-80d5-255a32b9c883)
 
-<img src=screenshots/02.png width=350>
+![02](https://github.com/prateekbhat05/Meeting_room_booking_system/assets/116095534/25f3560e-72dc-4c79-9234-fb0cc3c5f493)
+
+
 
 ## COLLABORATIONS:
 
